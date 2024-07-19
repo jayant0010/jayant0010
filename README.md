@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist and Software Engineer<br>MS CS Graduate from the University of Florida<br>NBC Universal<br>Newgen Software<br>Indian Space Research Organization(ISRO)<br>Passionate about integrating Engineering into Data Science
+Data Scientist and Software Engineer💻<br>MS CS Graduate from the University of Florida🐊<br>NBC Universal🌏<br>Newgen Software⎔<br>Indian Space Research Organization(ISRO)🚀<br>Passionate about integrating Engineering into Data Science
 
 
 ## 🌐 Socials:
